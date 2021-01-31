@@ -1,0 +1,21 @@
+
+html {
+    margin-top: 20px;
+}   
+td {
+    padding: 10px;
+}
+table, td {
+    border: 1px solid black;
+}
+thead {
+    color: blue;
+    text-transform: uppercase;
+}
+tbody {
+    background-color: khaki;
+}
+
+tfoot {
+    background-color: lightcoral;
+}
